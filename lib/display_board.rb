@@ -4,7 +4,7 @@ def display_board
   board_cell = "   "
   board_row = "#{board_cell}|#{board_cell}|#{board_cell}"
   row_dash = "-----------"
-  print board_row + row_dash + board_row + row_dash + board_row
+  puts board_row + row_dash + board_row + row_dash + board_row
 end
 
 display_board

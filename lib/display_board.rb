@@ -7,7 +7,8 @@ def display_board
   puts board_row 
   puts row_dash 
   puts board_row 
-  puts row_dash + board_row
+  puts row_dash
+  puts board_row
 end
 
 display_board

@@ -2,7 +2,7 @@
 
 def display_board
   board = [" ", " ", " "]
-  print board.length
+  print board
 end
 
 display_board

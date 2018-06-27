@@ -2,7 +2,7 @@
 
 def display_board
   board_cell = " | | "
-  print 3.times {board_cell
+  print 3.times {board_cell}
 end
 
 display_board

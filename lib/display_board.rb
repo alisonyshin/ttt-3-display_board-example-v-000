@@ -4,3 +4,5 @@ def display_board
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   print board.length
 end
+
+display_board
